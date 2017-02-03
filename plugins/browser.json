@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "org.app.sample"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "org.app.sample"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.app.sample"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "org.app.sample"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.app.sample"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.app.sample"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.app.sample"
+        }
+    }
+}
